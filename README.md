@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,java,py,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,angular,java,py,cs,mysql,mongodb)](https://skillicons.dev)
 
 <!---
 luizpfern/luizpfern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
