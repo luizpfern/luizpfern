@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=100&color=5D8AD3&center=true&vCenter=true&width=440&lines=Hello+There+%F0%9F%91%8B!;Welcome+to+my+GitHub!">
 </h1>
 
-<h2 align="left">Luiz Fernandes</h2>  <img src="https://img.shields.io/static/v1?label=Overview&message=Luiz&color=8b00c2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Luiz Fernandes&color=8b00c2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 - Computer Science student
 - Fullstack Developer
