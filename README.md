@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Luiz Fernandes&color=8b00c2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-- Computer Science student
+- Computer Science student at UNIP Ribeirão Preto/SP
 - Fullstack Developer
 
 ## <b>Github Stats</b>
