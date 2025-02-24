@@ -10,8 +10,8 @@
 ## <b>Github Stats</b>
 <div>
   <a href="[https://github.com/luizpfern](https://github.com/luizpfern)"> 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizpfern&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizpfern&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizpfern&theme=tokyonight&show_icons=true&hide_border=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpfern&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
     
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
