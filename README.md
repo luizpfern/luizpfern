@@ -1,21 +1,25 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=100&color=5D8AD3&center=true&vCenter=true&width=440&lines=Hello+There+%F0%9F%91%8B!;Welcome+to+my+GitHub!">
-</h1>
+## Hello, I'm Luiz Garcia!
 
-- Computer Science student at UNIP Ribeirão Preto/SP
-- Fullstack Developer
+I’m a Computer Science student from Ribeirão Preto/SP, Brazil.
 
-## <b>Github Stats</b>
+I’m currently working as a full-stack developer, using multiple technologies to build web and application solutions. I enjoy tackling challenges that require creative and practical approaches.
+
+Separately, I have a strong interest in artificial intelligence, particularly neural networks and their role in advancing technology. I am continuously improving my knowledge in this field.
+
+<br>
+
 <div>
-  <a href="[https://github.com/luizpfern](https://github.com/luizpfern)"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizpfern&theme=tokyonight&show_icons=true&hide_border=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpfern&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-    
-  <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizpfern&bg_color=1a1b27&color=38bdae&line=38bdae&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+  <img src="https://github-readme-stats.vercel.app/api?username=luizpfern&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="luizpfern" height=100% width=48.7% align=left />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizpfern&theme=tokyonight&hide_border=true&card_height=206" alt="luizpfern" height=100% width=48.7%/>
 </div>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luizpfern&bg_color=1a1b27&color=70a5fd&line=38bdae&point=38bdae&area=true&hide_border=true&radius=8" alt="luizpfern" width=99.8% />
+
+## <b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Program Languages</b>
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpfern&theme=tokyonight&show_icons=true&hide_border=true&layout=donut) |  ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,angular,java,py,mysql,mongodb) |
+|:--:|:--:|
 
 
-    
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,angular,java,py,mysql,mongodb)](https://skillicons.dev)
+
