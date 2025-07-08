@@ -13,7 +13,7 @@ Separately, I have a strong interest in artificial intelligence, particularly ne
   <img src="https://github-readme-streak-stats-coral-six.vercel.app/?user=luizpfern&theme=tokyonight&hide_border=true&card_height=206&count_private=true" alt="luizpfern" width=48.7%/>
 </div>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luizpfern&bg_color=1a1b27&color=70a5fd&line=38bdae&point=38bdae&area=true&hide_border=true&radius=8" width=97.4% alt="luizpfern" width=99.8% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luizpfern&bg_color=1a1b27&color=70a5fd&line=38bdae&point=38bdae&area=true&hide_border=true&radius=8" width=99.8% alt="luizpfern" width=99.8% />
 
 ## <b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Program Languages</b>
 
