@@ -4,6 +4,8 @@ I’m a Computer Science student from Ribeirão Preto/SP, Brazil, currently in m
 
 I'm currently working as a full-stack developer intern, where I use a range of technologies including Node.js, SQL Server, Angular, MongoDB, Swagger, and more to develop web and backend applications. This experience has strengthened my skills in building applications, designing REST APIs, managing databases, and integrating systems.
 
+During my academic journey, I’ve worked on various projects using technologies proposed by the university, such as Java for building object-oriented desktop applications and Python with Keras and TensorFlow for neural network-based image classification. In parallel, my internship has provided valuable real-world experience in managing databases and developing web applications. I’ve worked with APIs, including the integration of third-party services such as postal data lookup (Correios), invoice generation, route calculation, and OpenAI-based solutions. Additionally, I’ve integrated e-commerce platforms like Shopee, Tray, and Mercado Livre using their APIs and real-time webhook systems. These experiences have deepened my understanding of system integration, API design, asynchronous communication, and data-driven application architecture.
+
 Separately, I have a strong interest in artificial intelligence, particularly neural networks and their role in advancing technology. I am continuously improving my knowledge in this field.
 
 <br>
