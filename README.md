@@ -1,4 +1,4 @@
-## Hello, I'm Luiz Garcia!
+## Hello, I'm Luiz!
 
 I’m a Computer Science student from Ribeirão Preto/SP, Brazil, currently in my 6th semester at UNIP (Universidade Paulista).
 
