@@ -1,8 +1,8 @@
 ## Hello, I'm Luiz Garcia!
 
-I’m a Computer Science student from Ribeirão Preto/SP, Brazil.
+I’m a Computer Science student from Ribeirão Preto/SP, Brazil, currently in my 6th semester at UNIP (Universidade Paulista).
 
-I’m currently working as a full-stack developer, using multiple technologies to build web and application solutions. I enjoy tackling challenges that require creative and practical approaches.
+I'm currently working as a full-stack developer intern, where I use a range of technologies including Node.js, SQL Server, Angular, MongoDB, Swagger, and more to develop web and backend applications. This experience has strengthened my skills in building applications, designing REST APIs, managing databases, and integrating systems.
 
 Separately, I have a strong interest in artificial intelligence, particularly neural networks and their role in advancing technology. I am continuously improving my knowledge in this field.
 
