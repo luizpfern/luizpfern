@@ -12,10 +12,11 @@ Separately, I have a strong interest in artificial intelligence, particularly ne
 
 <br>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=luizpfern&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="luizpfern" width=48.5% align=left/>
-  <img src="https://github-readme-streak-stats-coral-six.vercel.app/?user=luizpfern&theme=tokyonight&hide_border=true&card_height=206&count_private=true" alt="luizpfern" width=48.5% align=right />
+<div align="center">
+  <img src="./profile/stats.svg" alt="Stats" width="49.5%" />
+  <img src="https://github-readme-streak-stats-coral-six.vercel.app/?user=luizpfern&theme=tokyonight&hide_border=true&card_height=206&count_private=true" alt="Streak" width="49.5%" />
 </div>
+
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizpfern&bg_color=1a1b27&color=70a5fd&line=38bdae&point=38bdae&area=true&hide_border=true&radius=8" width=100% alt="luizpfern"/>
 
