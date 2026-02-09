@@ -24,10 +24,10 @@ Separately, I have a strong interest in artificial intelligence, particularly ne
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,angular,java,py,mysql,mongodb">
 
-<div>
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luizpfern&theme=tokyonight&hide_border=true" width=48.5% align=left>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpfern&theme=tokyonight&show_icons=true&hide_border=true&layout=donut" width=48.5%>
-</div>
+</div> -->
 
 
 
