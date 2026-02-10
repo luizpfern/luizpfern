@@ -12,8 +12,8 @@ During my academic journey, I’ve worked on various projects using technologies
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 2%; margin-bottom: 2%;">
-    <img src="./profile/stats.svg" alt="Stats" width="49.78%" />
-    <img src="https://github-readme-streak-stats-coral-six.vercel.app/?user=luizpfern&theme=tokyonight&hide_border=true&card_height=206&count_private=true" alt="Streak" width="49.78%" />
+    <img src="./profile/stats.svg" alt="Stats" width="49.5%" />
+    <img src="https://github-readme-streak-stats-coral-six.vercel.app/?user=luizpfern&theme=tokyonight&hide_border=true&card_height=206&count_private=true" alt="Streak" width="49.5%" />
   </div>
 
   <div style="width: 100%;">
