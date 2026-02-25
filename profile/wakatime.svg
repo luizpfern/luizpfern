@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="170"
-        viewBox="0 0 495 170"
+        height="195"
+        viewBox="0 0 495 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -126,11 +126,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >8 hrs 39 mins</text>
+      >11 hrs 45 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#38bdae"></rect>
-      <svg data-testid="lang-progress" width="98.04%">
+      <svg data-testid="lang-progress" width="95.85%">
         <rect
             height="8"
             fill="#70a5fd"
@@ -144,12 +144,12 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="TypeScript">TypeScript:</text>
+      <text class="stat bold" y="12.5" data-testid="HTML">HTML:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >6 mins</text>
+      >12 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#38bdae"></rect>
@@ -172,7 +172,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >2 mins</text>
+      >10 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#38bdae"></rect>
@@ -190,6 +190,29 @@
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
+      <text class="stat bold" y="12.5" data-testid="TypeScript">TypeScript:</text>
+      <text
+        class="stat"
+        x="350"
+        y="12.5"
+      >6 mins</text>
+      
+    <svg width="220" x="110" y="4">
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#38bdae"></rect>
+      <svg data-testid="lang-progress" width="2%">
+        <rect
+            height="8"
+            fill="#70a5fd"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 1200ms;"
+        />
+      </svg>
+    </svg>
+  
+    </g>
+  </g><g transform="translate(0, 100)">
+    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
       <text class="stat bold" y="12.5" data-testid="JSON">JSON:</text>
       <text
         class="stat"
@@ -205,7 +228,7 @@
             fill="#70a5fd"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
-            style="animation-delay: 1200ms;"
+            style="animation-delay: 1350ms;"
         />
       </svg>
     </svg>
