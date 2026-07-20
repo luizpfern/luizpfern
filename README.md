@@ -23,7 +23,7 @@ During my academic journey, I’ve worked on various projects using technologies
 
 ## <b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Program Languages</b>
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,angular,java,py,mysql,mongodb">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,angular,java,py,mysql,mongodb,laravel,php,react,vite,postgresql">
 
 <div align="center">
   <img src="./profile/wakatime.svg" width="48.5%" align="left" />
