@@ -13,7 +13,7 @@ During my academic journey, I’ve worked on various projects using technologies
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 2%; margin-bottom: 2%;">
     <img src="./profile/stats.svg" alt="Stats" width="49.5%" />
-    <img src="https://github-readme-streak-stats-coral-six.vercel.app/?user=luizpfern&background=000000&border=242424&stroke=242424&ring=0066FF&fire=0052FF&currStreakNum=0066FF&sideNums=E8E8E8&currStreakLabel=8A8A8A&sideLabels=8A8A8A&dates=4A4A4A&hide_border=true&card_height=206&count_private=true" alt="Streak" width="49.5%" />
+    <img src="https://streak-stats.demolab.com/?user=luizpfern&background=000000&border=242424&stroke=242424&ring=0066FF&fire=0052FF&currStreakNum=0066FF&sideNums=E8E8E8&currStreakLabel=8A8A8A&sideLabels=8A8A8A&dates=4A4A4A&hide_border=true&card_height=206&count_private=true" alt="Streak" width="49.5%" />
   </div>
 
   <div style="width: 100%;">
