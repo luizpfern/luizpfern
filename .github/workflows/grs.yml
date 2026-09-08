@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=luizpfern&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github
+          options: username=luizpfern&title_color=0066FF&text_color=8A8A8A&icon_color=0066FF&bg_color=000000&ring_color=0066FF&show_icons=true&hide_border=true&count_private=true&rank_icon=github
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
@@ -23,15 +23,32 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=luizpfern&theme=tokyonight&show_icons=true&hide_border=true&layout=donut
+          options: username=luizpfern&title_color=0066FF&text_color=8A8A8A&icon_color=0066FF&bg_color=000000&hide_border=true&layout=donut
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Recolor language donut
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path("profile/langs.svg")
+          svg = path.read_text(encoding="utf-8")
+          for old, new in {
+              "#f1e05a": "#0066FF",
+              "#b07219": "#0052FF",
+              "#e34c26": "#0084FF",
+              "#c6538c": "#E8E8E8",
+              "#3178c6": "#8A8A8A",
+          }.items():
+              svg = svg.replace(old, new)
+          path.write_text(svg, encoding="utf-8")
+          PY
 
       - name: Generate WakaTime card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=luizpfern&theme=tokyonight&hide_border=true
+          options: username=luizpfern&title_color=0066FF&text_color=8A8A8A&icon_color=0066FF&bg_color=000000&hide_border=true
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
