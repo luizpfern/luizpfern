@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-label="stack">
+  <rect width="900" height="64" fill="#000000"/>
+  <rect x="0.5" y="0.5" width="899" height="63" fill="none" stroke="#242424"/>
+  <text x="20" y="24" font-family="ui-monospace, Cascadia Mono, Segoe UI Mono, Consolas, monospace" font-size="12" fill="#4A4A4A">// stack</text>
+  <text x="20" y="46" font-family="ui-monospace, Cascadia Mono, Segoe UI Mono, Consolas, monospace" font-size="12">
+    <tspan fill="#8A8A8A">JS</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#8A8A8A">TS</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#8A8A8A">NODE</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#8A8A8A">HTML</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#8A8A8A">CSS</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#8A8A8A">ANGULAR</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#8A8A8A">JAVA</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#8A8A8A">PY</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#8A8A8A">MYSQL</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#8A8A8A">MONGODB</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#0066FF">LARAVEL</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#0066FF">PHP</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#0066FF">REACT</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#0066FF">VITE</tspan><tspan fill="#4A4A4A">   </tspan>
+    <tspan fill="#0066FF">POSTGRESQL</tspan>
+  </text>
+</svg>

@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=luizpfern&title_color=0066FF&text_color=8A8A8A&icon_color=0066FF&bg_color=000000&ring_color=0066FF&show_icons=true&hide_border=true&count_private=true&rank_icon=github
+          options: username=luizpfern&title_color=0066FF&text_color=8A8A8A&icon_color=0066FF&bg_color=000000&border_color=242424&border_radius=0&ring_color=0066FF&show_icons=true&count_private=true&rank_icon=github
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=luizpfern&title_color=0066FF&text_color=8A8A8A&icon_color=0066FF&bg_color=000000&hide_border=true&layout=donut
+          options: username=luizpfern&title_color=0066FF&text_color=8A8A8A&icon_color=0066FF&bg_color=000000&border_color=242424&border_radius=0&layout=donut
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -48,7 +48,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=luizpfern&title_color=0066FF&text_color=8A8A8A&icon_color=0066FF&bg_color=000000&hide_border=true
+          options: username=luizpfern&title_color=0066FF&text_color=8A8A8A&icon_color=0066FF&bg_color=000000&border_color=242424&border_radius=0
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
