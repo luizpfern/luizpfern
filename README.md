@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/e8e07c70-8490-4180-b8b5-d4fff3a192f7.svg)](https://wakatime.com/@e8e07c70-8490-4180-b8b5-d4fff3a192f7)
+
 <img src="./profile/header.svg" width="100%" alt="luizpfern" />
 
 ## Hello, I'm Luiz!
