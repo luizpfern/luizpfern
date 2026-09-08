@@ -13,11 +13,11 @@ During my academic journey, I’ve worked on various projects using technologies
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 2%; margin-bottom: 2%;">
     <img src="./profile/stats.svg" alt="Stats" width="49.5%" />
-    <img src="https://streak-stats.demolab.com/?user=luizpfern&background=000000&border=242424&stroke=242424&ring=0066FF&fire=0052FF&currStreakNum=0066FF&sideNums=E8E8E8&currStreakLabel=8A8A8A&sideLabels=8A8A8A&dates=4A4A4A&border_radius=0&card_height=206&count_private=true" alt="Streak" width="49.5%" />
+    <img src="https://streak-stats.demolab.com/?user=luizpfern&background=000000&border=000000&stroke=242424&ring=0066FF&fire=0052FF&currStreakNum=0066FF&sideNums=E8E8E8&currStreakLabel=8A8A8A&sideLabels=8A8A8A&dates=4A4A4A&hide_border=true&border_radius=0&card_height=206&count_private=true" alt="Streak" width="49.5%" />
   </div>
 
   <div style="width: 100%;">
-    <img src="https://github-readme-activity-graph-gamma-five.vercel.app/graph?username=luizpfern&bg_color=000000&color=8A8A8A&title_color=E8E8E8&line=0066FF&point=0084FF&area_color=0052FF&area=true&border_color=242424&radius=0&custom_title=%3E%20activity" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph-gamma-five.vercel.app/graph?username=luizpfern&bg_color=000000&color=8A8A8A&title_color=E8E8E8&line=0066FF&point=0084FF&area_color=0052FF&area=true&hide_border=true&radius=0&custom_title=%3E%20activity" width="100%" alt="Activity Graph" />
   </div>
 </div>
 

@@ -91,10 +91,10 @@
           y="0.5"
           rx="0"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#000000"
           width="494"
           fill="#000000"
-          stroke-opacity="1"
+          stroke-opacity="0"
         />
 
         
