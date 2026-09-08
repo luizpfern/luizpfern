@@ -17,7 +17,7 @@ During my academic journey, I’ve worked on various projects using technologies
   </div>
 
   <div style="width: 100%;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizpfern&bg_color=1a1b27&color=70a5fd&line=38bdae&point=38bdae&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph-gamma-five.vercel.app/graph?username=luizpfern&bg_color=1a1b27&color=70a5fd&line=38bdae&point=38bdae&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
   </div>
 </div>
 
