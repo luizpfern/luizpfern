@@ -12,17 +12,27 @@ During my academic journey, I’ve worked on various projects using technologies
 
 <br>
 
-<img src="./profile/stats.svg" alt="Stats" width="49.5%" align="left" />
-<img src="https://streak-stats.demolab.com/?user=luizpfern&background=000000&border=000000&stroke=242424&ring=0066FF&fire=0052FF&currStreakNum=0066FF&sideNums=E8E8E8&currStreakLabel=8A8A8A&sideLabels=8A8A8A&dates=4A4A4A&hide_border=true&border_radius=0&card_width=467&card_height=195&count_private=true" alt="Streak" width="49.5%" align="right" />
-<br clear="both"/>
-<img src="./profile/gap.svg" width="100%" alt="" />
-<img src="https://github-readme-activity-graph-gamma-five.vercel.app/graph?username=luizpfern&bg_color=000000&color=8A8A8A&title_color=E8E8E8&line=0066FF&point=0084FF&area_color=0052FF&area=true&hide_border=true&radius=0&custom_title=%3E%20activity" width="100%" alt="Activity Graph" />
-<img src="./profile/gap.svg" width="100%" alt="" />
-<img src="./profile/stack.svg" width="100%" alt="// stack" />
-<img src="./profile/gap.svg" width="100%" alt="" />
-<img src="./profile/wakatime.svg" alt="WakaTime" width="49.5%" align="left" />
-<img src="./profile/langs.svg" alt="Languages" width="49.5%" align="right" />
-<br clear="both"/>
+<table width="100%">
+  <tr>
+    <td width="49%" valign="top"><img src="./profile/stats.svg" alt="Stats" width="100%" /></td>
+    <td width="2%"></td>
+    <td width="49%" valign="top"><img src="https://streak-stats.demolab.com/?user=luizpfern&background=000000&border=000000&stroke=242424&ring=0066FF&fire=0052FF&currStreakNum=0066FF&sideNums=E8E8E8&currStreakLabel=8A8A8A&sideLabels=8A8A8A&dates=4A4A4A&hide_border=true&border_radius=0&card_width=467&card_height=195&count_private=true" alt="Streak" width="100%" /></td>
+  </tr>
+  <tr><td colspan="3" height="12"></td></tr>
+  <tr>
+    <td colspan="3"><img src="https://github-readme-activity-graph-gamma-five.vercel.app/graph?username=luizpfern&bg_color=000000&color=8A8A8A&title_color=E8E8E8&line=0066FF&point=0084FF&area_color=0052FF&area=true&hide_border=true&radius=0&custom_title=%3E%20activity" width="100%" alt="Activity Graph" /></td>
+  </tr>
+  <tr><td colspan="3" height="12"></td></tr>
+  <tr>
+    <td colspan="3"><img src="./profile/stack.svg" width="100%" alt="// stack" /></td>
+  </tr>
+  <tr><td colspan="3" height="12"></td></tr>
+  <tr>
+    <td width="49%" valign="top"><img src="./profile/wakatime.svg" alt="WakaTime" width="100%" /></td>
+    <td width="2%"></td>
+    <td width="49%" valign="top"><img src="./profile/langs.svg" alt="Languages" width="100%" /></td>
+  </tr>
+</table>
 
 
 
